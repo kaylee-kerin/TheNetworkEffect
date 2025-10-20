@@ -1,0 +1,5 @@
+{
+  "name": "Network Effect Visualization",
+  "description": "An interactive application to visualize network effects, trust, and commitment between participants. Events can dynamically alter the relationships, providing a real-time view of the network's health and evolution.",
+  "requestFramePermissions": []
+}
